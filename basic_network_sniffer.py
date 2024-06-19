@@ -1,3 +1,9 @@
+
+
+# Basic Network Packet sniffer project by https://www.linkedin.com/in/ashutosh-munde-760138262/
+# This porject is a part of internship program by CodeAlpha
+
+
 import sys
 from scapy.all import *
 
